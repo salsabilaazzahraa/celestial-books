@@ -1,5 +1,8 @@
 ![Logo Celestial Books](assets/img/logo.png)
-
+![Login Celestial Books](assets/img/login.png)
+![Register Celestial Books](assets/img/register.png)
+![Halaman Awal Celestial Books](assets/img/halawal.png)
+![Dashboard Admin Celestial Books](assets/img/dbadmin.png)
 Celestial Books adalah platform pengelolaan perpustakaan digital yang menggabungkan dunia sihir Harry Potter dengan teknologi modern. Aplikasi ini dirancang khusus untuk penggemar literatur magis dan teknologi, menyediakan akses lengkap ke koleksi buku-buku tentang dunia sihir Harry Potter serta berbagai referensi teknologi terkini. Sistem ini memungkinkan pengguna untuk dengan mudah menjelajahi, meminjam, dan mengelola koleksi buku perpustakaan dengan antarmuka yang intuitif dan fitur yang komprehensif. Celestial Books bertujuan menciptakan pengalaman perpustakaan yang magical namun efisien, menghubungkan komunitas pecinta Harry Potter dan teknologi dalam satu platform terintegrasi.
 
 Fitur
